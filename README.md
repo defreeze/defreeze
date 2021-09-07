@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex de Vries
-- 👀 I’m interested in Data Science, ML, NLP and in general solving and explaining data science problems.
+- 👀 I’m interested in solving and explaining data science problems.
 - 🌱 I’m currently learning ML
 - 📫 Reach me using alexthevries@gmail.com
 
