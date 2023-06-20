@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything LLMs, NLP and financial modelling.
 - 📫 Reach out on linkedin: https://www.linkedin.com/in/alex-de-vries-nl/
 - 📫 My portfolio website: https://alexdevri.es/
-- 
+  
 My Github is used as a repository for all personal data science projects. for some additional completed courses view : https://gist.github.com/defreeze
 
 <!---
