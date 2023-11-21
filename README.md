@@ -1,5 +1,5 @@
-- 📫 Reach out on linkedin: https://www.linkedin.com/in/alex-de-vries-nl/
-- 📫 My portfolio website: https://alexdevri.es/
+- 📫 Reach out on linkedin: www.linkedin.com/in/alex-de-vries-nl
+- 📫 My portfolio website: www.alexdevri.es
   
 My Github is used as a repository for all personal data science projects. for some additional completed courses view : https://gist.github.com/defreeze
 
