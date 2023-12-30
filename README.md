@@ -1,7 +1,7 @@
 - 📫 Reach out on linkedin: www.linkedin.com/in/alex-de-vries-nl
 - 📫 My portfolio website: www.alexdevri.es
   
-My Github is used as a repository for all personal data science projects. for some additional completed courses view : https://gist.github.com/defreeze
+This Github is used as a repository for all my personal data/AI projects. for some additional completed courses view: https://gist.github.com/defreeze
 
 <!---
 defreeze/defreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
