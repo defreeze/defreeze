@@ -1,4 +1,4 @@
-- 📫 Reach out on linkedin: www.linkedin.com/in/alex-de-vries-nl
+- 📫 Reach out on linkedin: www.linkedin.com/in/alexthevries
 - 📫 My portfolio website: www.alexdevri.es
   
 This Github is used as a repository for all my personal data/AI projects. 
